@@ -178,7 +178,7 @@ export default function DashboardPage() {
         <div>
           <h1 className="text-2xl font-semibold">Dashboard</h1>
           <p className="text-sm text-muted-foreground">
-            Monitor your API Gateway performance and health
+            Welcome to Yunis's project
           </p>
         </div>
         <div className="flex items-center gap-2">
